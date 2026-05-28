@@ -21,8 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE, VI Semester @ **JECRC University** (2023–2027)
-- 🔭 Currently working on **CineScope** — a full-stack movie discovery app
+- 🎓 B.Tech CSE, @ **JECRC University** (2023–2027)
 - 🌱 Always exploring new APIs, AI integrations & deployment workflows
 - 💬 Ask me about **React, Firebase, REST APIs, or DSA**
 - 📍 Based in **Jaipur, Rajasthan, India**
@@ -79,7 +78,7 @@
 > REST API Integrated Web App
 
 - ⚡ Real-time API-driven data fetching with optimized state management
-- 🚀 Deployed via CI/CD pipeline on Vercel
+- 🚀 Deployed on Vercel
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
